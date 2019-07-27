@@ -1,0 +1,41 @@
+p
+{
+    color: #FF73BF;
+    font-size: 50px;
+    text-align: center;
+    background-color: skyblue;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+body
+{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-image: url("1.jpg");
+}
+
+h1
+{
+    color: green;
+    text-align: center;
+}
+/* Pour faire la difference entre les fruits */
+.fruit1
+{
+    color: pink;
+}
+
+.fruit2
+{
+    color: yellow;
+}
+
+.fruit3
+{
+    color: red;
+}
+
+.fruit4
+{
+    color: white;
+}
